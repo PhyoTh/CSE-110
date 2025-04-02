@@ -25,7 +25,7 @@ Welcome to my user page! I am a third-year Comp Sci Major at UCSD. This is my fi
 
 A quote I found online that is stuck on my head
 
-> "Code is like a humor, when you have to explain it, it's bad" something like that
+> "Code is like a humor, when you have to explain it, it's bad"
 
 My first C++ program
 
@@ -39,7 +39,7 @@ int main() {
 }
 ```
 
---
+---
 
 ## Tech Stacks
 
