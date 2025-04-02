@@ -1,12 +1,14 @@
 # Phyo Thant's User Page
 
-## Welcome to my user page! I am a third-year Comp Sci Major at UCSD. This is my first time learning markdown language in detail!
+Welcome to my user page! I am a third-year Comp Sci Major at UCSD. This is my first time learning markdown language in detail!
 
 ## Section Links
 
-- [Jump to About Me](#about-me)
-- [Jump to Tech Stacks](#tech-stacks)
-- [Jump to Pictures of Cool Cars](#pictures-of-cool-cars)
+- [Phyo Thant's User Page](#phyo-thants-user-page)
+  - [Section Links](#section-links)
+  - [About Me](#about-me)
+  - [Tech Stacks](#tech-stacks)
+  - [Pictures of Cool Cars](#pictures-of-cool-cars)
 
 ---
 
@@ -59,4 +61,4 @@ int main() {
 
 ![Here is a picture of a very cool car](https://images-porsche.imgix.net/-/media/5CCEFD7BFDEC44B0BFEDD8FC51856632_A716CD4802D241E3BE787EF14B813101_911-gt3-rs-side?w=1800&q=45&crop=faces%2Centropy%2Cedges&auto=format)
 
-## ![Here is another picture of a very cool car](AMGC63.png)
+![Here is another picture of a very cool car](AMGC63.png)
