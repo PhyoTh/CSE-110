@@ -45,10 +45,10 @@ int main() {
 
 - Languages
 
-  - ** C++ **
-  - ** Python **
-  - ** C **
-  - ** Javascript **
+  - **C++**
+  - **Python**
+  - **C**
+  - **Javascript**
 
 - To-Learn-List
   - [x] Web Dev BootCamp Udemy
